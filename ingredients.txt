@@ -4,3 +4,4 @@
 - cilantro
 - salt and pepper
 - habaneros
+- parsley
